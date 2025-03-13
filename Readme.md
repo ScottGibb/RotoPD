@@ -50,5 +50,5 @@ To ultilize AVS power profile, you will need a powerbank or charger that has AVS
 ![Components](./Documents/RotoPD_Components.png)
 
 ## Demo
-Fixed PDO example with Sparkfun Pro Micro ESP32-C3. We are requesting AVS 28V.
+AVSFixed example with Sparkfun Pro Micro ESP32-C3. We are requesting AVS 28V.
 ![ESP32C3-28V](./Documents/Demo-ESP32C2-28V.JPG)
