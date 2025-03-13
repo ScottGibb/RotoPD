@@ -18,7 +18,7 @@ While traditional power adapters can provide a variety of current but fixed to 5
 
 Centylab's RotoPD can unlock more advance mode in your USB-C power supplies like Programmable Power Supply (PPS) and Adjustable Voltage Supply (AVS), to provide even more granular voltage adjustment. The RotoPD simplifies power negotiation with USB-C adapters, handling the complex process of establishing power delivery contracts. The controller does all the heavy lifting of power negotiation and provides an easy way to configure over I2C, free your micro-controller from the complicated USB-C PD protocol.
 
-To config the board, you will need an I2C bus. The board integrates seamlessly into the Qwiic and STEMMA QT ecosystems, no soldering is required. We also include an logic level shifter on board to work with 3.3V or 5V I2C system.
+To config the board, you will need an I2C bus. The board integrates seamlessly into the Qwiic and STEMMA QT ecosystems, no soldering is required. We also include an logic level shifter on board to work with **3.3V or 5V I2C system**.
 
 To make it even easier to use, RotoPD includes a built-in buck converter that efficiently steps down USB-C VBUS power to a stable 5V 2A output, making it perfect for powering microcontrollers, sensors, and other low-voltage components in your project.
 
@@ -36,7 +36,7 @@ To ultilize AVS power profile, you will need a powerbank or charger that has AVS
 ## Specification
 + Input and output voltage range of 3.5-30V at 5A max
 + 5V output at 2A max
-+ Support Qwiic or STEMMA QT in both 3.3V and 5V I2C
++ Support Qwiic or STEMMA QT in both **3.3V and 5V I2C**
 + Support PD3.1 EPR/AVS Up to 30V and SPR/PPS Up to 21V
 + Integrated ESD and flyback diode protection
 + Integrated VBUS voltage/current monitoring
