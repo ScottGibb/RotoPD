@@ -6,7 +6,7 @@
 - [AP33772S Arduino - GitHub](https://github.com/CentyLab/AP33772S-CentyLab)
 - [AP33772S Arduino RP2040 - GitHub](https://github.com/CentyLab/AP33772S-Cpp)
 - [AP33772S CircuitPython - GitHub](https://github.com/hansendc/CircuitPython_AP33772s/) -> Thanks to [hansendc](https://github.com/hansendc)
-- [AP33772S PicoSDK - GitHub]()
+- [AP33772S PicoSDK - GitHub](https://github.com/CentyLab/AP33772S-PicoSDK)
 
 You can install the library directly on ArduinoIDE
 
